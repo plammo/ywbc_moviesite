@@ -1,0 +1,51 @@
+/* line 1, ../scss/_colours.scss */
+.colour_palette {
+  width: 80px;
+  height: 80px;
+  border: solid 1px #333;
+  float: left;
+  margin-right: 6px;
+}
+/* line 8, ../scss/_colours.scss */
+.colour_palette.colour_palette__hammerRed {
+  background: #ff0000;
+}
+/* line 13, ../scss/_colours.scss */
+.colour_palette.colour_palette__charcoal {
+  background: #3F3A39;
+}
+/* line 18, ../scss/_colours.scss */
+.colour_palette.colour_palette__mohairMush {
+  background: #edebe0;
+}
+
+/* line 5, ../scss/main.scss */
+.clearfix:after, article:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+/* line 13, ../scss/main.scss */
+.clearfix, article {
+  display: inline-block;
+}
+
+/* start commented backslash hack \*/
+/* line 15, ../scss/main.scss */
+* html .clearfix, * html article {
+  height: 1%;
+}
+
+/* line 16, ../scss/main.scss */
+.clearfix, article {
+  display: block;
+}
+
+/* line 18, ../scss/main.scss */
+* {
+  box-sizing: border-box;
+}

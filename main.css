@@ -1,0 +1,25 @@
+h1{
+
+	font-family: "Zapfino";
+	color:#ADBAAC;
+}
+
+h2{
+
+	font-family: "Verdana" sans-serif;
+	color:white;
+}
+
+footer h3 {
+	color:#D87E67;
+}
+
+nav li{
+	color:green;
+}
+
+.container {
+	width:960px;
+	height:600px;
+	background-color: #00a3d3;
+}
