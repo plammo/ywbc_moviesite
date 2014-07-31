@@ -1,0 +1,40 @@
+h1{
+
+	font-family: "Zapfino";
+	color:#ADBAAC;
+}
+
+h2{
+
+	font-family: "Verdana" sans-serif;
+	color:white;
+}
+
+footer h3 {
+	color:#D87E67;
+}
+
+nav li{
+	color:red;
+	display:inline-block;
+	font-family: "TripleCondensedGothicRR Light";
+	font-size: 80px;
+	margin-left:15px;
+	padding:5px;
+}
+
+nav li a {
+	text-decoration: none;
+}
+
+nav li a:hover {
+	color:#00a3d3;
+	background-color: #000;
+	padding:0px 10px;
+}
+
+.container {
+	width:960px;
+	height:600px;
+	background-color: #00a3d3;
+}

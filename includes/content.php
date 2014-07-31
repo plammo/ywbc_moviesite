@@ -1,5 +1,31 @@
-<main>
-<div class="container">
-<h2>Here is where all the content goes</h2>
-</div>
-</main>
+	
+	<main>
+		<section id="container">
+
+			<div class="row bkg_image">
+			</div>
+
+			<div class="row girl_image">
+
+			</div>
+
+			<div class="row movie__title">
+				<h1>WOLF</h1>
+			</div>
+			
+			<div class="row movie__count">
+			</div>
+		
+		<?php
+		
+		require_once('nav.php');
+
+		?>
+
+		</section>
+
+	</main>
+
+	</section>
+
+</body>
