@@ -1,0 +1,1 @@
+//this file displays 404 message if user selects a page that doesnt exist
